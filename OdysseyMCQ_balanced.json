@@ -1,0 +1,302 @@
+[
+  {
+    "question": "To which island did Ulysses and his men first sail after leaving Aeolus?",
+    "answers": [
+      "Ithaca",
+      "Aeaean island",
+      "Aeolian island",
+      "Laestrygonian island"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Who is Aeolus the son of?",
+    "answers": [
+      "Hippotas",
+      "Jove",
+      "Oceanus",
+      "Poseidon"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "How many daughters and sons does Aeolus have?",
+    "answers": [
+      "Six daughters and six sons",
+      "Four daughters and four sons",
+      "Seven daughters and seven sons",
+      "Five daughters and five sons"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "How long did Aeolus entertain Ulysses?",
+    "answers": [
+      "A month",
+      "A week",
+      "Two weeks",
+      "A year"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "What gift did Aeolus give Ulysses to help him on his way?",
+    "answers": [
+      "A golden goblet",
+      "A strong ship",
+      "A magical herb",
+      "A sack holding the winds"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "What kind of thread was used to bind the mouth of the sack of winds?",
+    "answers": [
+      "Linen thread",
+      "Golden thread",
+      "Bronze thread",
+      "Silver thread"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Which wind did Aeolus allow to blow to help Ulysses's ship?",
+    "answers": [
+      "North wind",
+      "South wind",
+      "West wind",
+      "East wind"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Why did Ulysses's men open the sack of winds?",
+    "answers": [
+      "They thought Ulysses was hiding gold and silver.",
+      "They wanted to feel the wind.",
+      "They accidentally untied it.",
+      "They were curious about the contents."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "How many days and nights did Ulysses and his men sail after leaving Aeolus the first time, before their native land showed on the horizon?",
+    "answers": [
+      "Seven days and seven nights",
+      "Eight days and eight nights",
+      "Nine days and nine nights",
+      "Ten days and ten nights"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "What was Ulysses doing when his men opened the sack of winds?",
+    "answers": [
+      "Sleeping lightly",
+      "Hunting a stag",
+      "Talking to Aeolus",
+      "Feasting with them"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "How did Aeolus react when Ulysses returned to his island after the winds escaped?",
+    "answers": [
+      "He welcomed him back kindly.",
+      "He turned his men into pigs.",
+      "He offered him more assistance.",
+      "He sent him away, calling him abhorred of heaven."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "After leaving Aeolus the second time, where did Ulysses and his men reach on the seventh day?",
+    "answers": [
+      "The Aeaean island",
+      "The rocky stronghold of Lamus",
+      "The land of the Ethiopians",
+      "Ithaca"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "What is the name of the city of the Laestrygonians?",
+    "answers": [
+      "Temesa",
+      "Rheithron",
+      "Telepylus",
+      "Ogygian"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "What did Ulysses do with his own ship when they reached the Laestrygonian harbour?",
+    "answers": [
+      "He moored it to a rock outside the harbor.",
+      "He sent it ahead to reconnoitre.",
+      "He took it inside with the others.",
+      "He hid it in a cave."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Who was the king of the Laestrygonians?",
+    "answers": [
+      "Aeetes",
+      "Antiphates",
+      "Polyphemus",
+      "Teiresias"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "What did the Laestrygonians do to Ulysses's men and ships in the harbour?",
+    "answers": [
+      "They welcomed them and offered them food.",
+      "They stole their provisions and supplies.",
+      "They threw vast rocks, crunching the ships and spearing the men.",
+      "They turned them into animals."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Who is Circe the sister of?",
+    "answers": [
+      "Proserpine",
+      "Oceanus",
+      "Aeetes",
+      "Perse"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "What animal did Ulysses kill near Circe's house to feed his men?",
+    "answers": [
+      "A wild boar",
+      "A sheep",
+      "A stag",
+      "An ox"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "What did Circe do to Ulysses's men after they drank her mess?",
+    "answers": [
+      "She made them forget their homes.",
+      "She welcomed them and fed them well.",
+      "She gave them a magical herb.",
+      "She turned them into pigs."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Who was the only man who suspected mischief and stayed outside Circe's house?",
+    "answers": [
+      "Eurylochus",
+      "Elpenor",
+      "Telemachus",
+      "Polites"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Who appeared to Ulysses to help him against Circe?",
+    "answers": [
+      "Zeus",
+      "Mercury",
+      "Minerva",
+      "Poseidon"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "What is the name of the herb that protects Ulysses from Circe's magic?",
+    "answers": [
+      "Nectar",
+      "Lotus",
+      "Ambrosia",
+      "Moly"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "What is the appearance of the herb Moly?",
+    "answers": [
+      "Black root and red flower",
+      "Black root and white flower",
+      "White root and black flower",
+      "Green root and purple flower"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "What does Ulysses make Circe swear before he goes to bed with her?",
+    "answers": [
+      "That she will help him get home immediately",
+      "That she will plot no further harm against him",
+      "That she will turn his men back into humans",
+      "That she will give him gold and silver"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "How did Circe turn Ulysses's men back into humans?",
+    "answers": [
+      "By making them drink another mess.",
+      "By giving them an antidote to her drug.",
+      "By performing a special enchantment.",
+      "By touching them with her wand a second time."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "How long did Ulysses and his men stay with Circe?",
+    "answers": [
+      "Nine months",
+      "A whole twelvemonth",
+      "Two years",
+      "Six months"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "What is the next journey Ulysses must take before sailing homewards, according to Circe?",
+    "answers": [
+      "To consult the oracle at Delphi",
+      "To go to the house of Hades and Proserpine",
+      "To visit the land of the Cyclopes",
+      "To return to Aeolus"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Whose ghost does Ulysses need to consult in the house of Hades?",
+    "answers": [
+      "Teiresias",
+      "Ajax",
+      "Agamemnon",
+      "Achilles"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "What offering does Circe instruct Ulysses to pour into the trench for the dead?",
+    "answers": [
+      "Wine, oil, and blood",
+      "Cooked meat and bread",
+      "Barley meal and water",
+      "Honey mixed with milk, wine, and water"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "What happened to Elpenor before Ulysses and his men left Circe's island?",
+    "answers": [
+      "He was turned into a pig.",
+      "He fell off the roof and broke his neck.",
+      "He was lost at sea.",
+      "He decided to stay with Circe."
+    ],
+    "correct_index": 1
+  }
+]
