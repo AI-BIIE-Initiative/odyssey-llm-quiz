@@ -55,4 +55,4 @@ for i, item in enumerate(benchmark):
 # Print accuracy
 total = len(benchmark)
 accuracy = num_correct / total * 100
-print(f"🔍 FLAN-T5 Model Accuracy: {accuracy:.2f}% ({num_correct}/{total})")
+print(f"FLAN-T5 Model Accuracy: {accuracy:.2f}% ({num_correct}/{total})")
