@@ -11,7 +11,7 @@ You will be working with the following assets:
 
 - A chapter from *The Odyssey* (provided in plain text format). [`The_Odyssey_chapter_10.txt`](The_Odyssey_chapter_10.txt)
 - A set of multiple-choice questions assessing comprehension and reasoning from the chapter.[`OdysseyMCQ_balanced.json`](OdysseyMCQ_balanced.json)
-- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model [`https://huggingface.co/google/flan-t5-small`](google/flan-t5-small), and currently achieves **20% accuracy** on the same set of questions.
+- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small), and currently achieves **20% accuracy** on the same set of questions.
 
 
 ---
