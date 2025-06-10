@@ -39,6 +39,51 @@ Specifically:
 
 ---
 
+## 📝 Final Notes
+
+This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication—core qualities of effective engineers.
+
+---
+
+### What You Should Do
+
+1. **You are encouraged to upload and include anything you find necessary** to support your solution—whether that’s custom code, evaluation scripts, visualizations, reference materials, or documentation.  
+   > 🧾 A Jupyter or Colab **notebook is preferred** for its ability to combine code, results, and reasoning in a single, readable format.
+
+2. **You are free to approach the benchmark however you see fit.**  
+   Feel empowered to:
+   - Fix or redesign the evaluation pipeline
+   - Refactor question formatting or handling
+   - Engineer prompts or augment the dataset
+   - Try any method you believe could improve the LLM’s performance  
+   > This is your chance to show **how you think**, not just how you code.
+
+3. **This is an open-ended assessment.**  
+   We're looking at your ability to:
+   - Explore and justify engineering decisions
+   - Communicate design trade-offs
+   - Reflect on outcomes with appropriate metrics and plots  
+   > Think of it as solving a small, real-world problem where clarity and intent matter more than perfection.
+
+4. **Using LLMs during development is encouraged.**  
+   Whether it’s ChatGPT, Claude, Gemini, or any other tool:
+   - Feel free to use them for coding, exploration, or research.
+   - Just **explain how and why you used them**.  
+   > For instance: “Used Claude to explore prompt design alternatives and chose X because…”
+
+5. **Push everything to this repository.**  
+   Your final submission should include:
+   - Your completed notebook (`.ipynb`)
+   - Any additional code, scripts, or helper files you created
+   - Plots, figures, or results that support your explanation  
+   > Please commit and push all relevant files to the root or appropriate folders in this repo before submission.
+
+---
+
+We appreciate originality and inventiveness—but also **value simplicity**, **clarity**, and **reproducibility** in your final submission.  
+
+Good luck—and enjoy the challenge!
+
 
 ## 📘 Odyssey LLM Quiz – Evaluation Report
 
@@ -264,13 +309,6 @@ All code, questions, benchmark tools, and instructional materials in this reposi
 
 Portions of this repository (specifically, the text of *The Odyssey*) are derived from Project Gutenberg content. All original work contained in this repository is © 2025 by AI-BIIE-Initiative and contributors, and made available under permissive open-source terms.
 
-
-
-## Final Notes
-
-- This is not just a coding test. We are evaluating your **problem-solving approach**, **communication of trade-offs**, and **ability to analyze outcomes**.
-- Please aim for **clarity and structure** in your notebook. Use section headings and code comments liberally.
-- We appreciate creativity, but also value simplicity and reproducibility.
 
 ---
 
