@@ -45,12 +45,6 @@ Specifically:
 
 The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, which achieves **20% accuracy** across 30 multiple-choice questions. You can find the full evaluation breakdown below to understand which types of questions it struggled with.
 
----
-
-Please feel free to open [`quiz.ipynb`](quiz.ipynb) in [Google Colab](https://colab.research.google.com/github/AI-BIIE-Initiative/odyssey-llm-quiz/blob/main/quiz.ipynb) to get started quickly.
-
-Good luck—and enjoy the journey through Homer’s epic!
-
 
 ## 📘 Odyssey LLM Quiz – Evaluation Report
 
