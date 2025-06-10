@@ -18,6 +18,165 @@ Your objective is to **improve this performance** by intelligently incorporating
 
 Your challenge is to explore, justify, and implement methods that increase the model's ability to correctly answer questions by leveraging knowledge from the provided text.
 
+## 📘 Odyssey LLM Quiz – Evaluation Report
+
+---
+
+### Q1: To which island did Ulysses and his men first sail after leaving Aeolus?  
+**Correct Answer:** Aeolian island  
+**Predicted Answer:** Laestrygonian island  
+**Result:** ❌ Incorrect
+
+### Q2: Who is Aeolus the son of?  
+**Correct Answer:** Hippotas  
+**Predicted Answer:** Poseidon  
+**Result:** ❌ Incorrect
+
+### Q3: How many daughters and sons does Aeolus have?  
+**Correct Answer:** Six daughters and six sons  
+**Predicted Answer:** Six daughters and six sons  
+**Result:** ✅ Correct!
+
+### Q4: How long did Aeolus entertain Ulysses?  
+**Correct Answer:** A month  
+**Predicted Answer:** A week  
+**Result:** ❌ Incorrect
+
+### Q5: What gift did Aeolus give Ulysses to help him on his way?  
+**Correct Answer:** A sack holding the winds  
+**Predicted Answer:** A strong ship  
+**Result:** ❌ Incorrect
+
+### Q6: What kind of thread was used to bind the mouth of the sack of winds?  
+**Correct Answer:** Silver thread  
+**Predicted Answer:** Linen thread  
+**Result:** ❌ Incorrect
+
+### Q7: Which wind did Aeolus allow to blow to help Ulysses's ship?  
+**Correct Answer:** West wind  
+**Predicted Answer:** East wind  
+**Result:** ❌ Incorrect
+
+### Q8: Why did Ulysses's men open the sack of winds?  
+**Correct Answer:** They thought Ulysses was hiding gold and silver.  
+**Predicted Answer:** They were curious about the contents.  
+**Result:** ❌ Incorrect
+
+### Q9: How many days and nights did Ulysses and his men sail after leaving Aeolus the first time, before their native land showed on the horizon?  
+**Correct Answer:** Nine days and nine nights  
+**Predicted Answer:** Seven days and seven nights  
+**Result:** ❌ Incorrect
+
+### Q10: What was Ulysses doing when his men opened the sack of winds?  
+**Correct Answer:** Sleeping lightly  
+**Predicted Answer:** Feasting with them  
+**Result:** ❌ Incorrect
+
+### Q11: How did Aeolus react when Ulysses returned to his island after the winds escaped?  
+**Correct Answer:** He sent him away, calling him abhorred of heaven.  
+**Predicted Answer:** He welcomed him back kindly.  
+**Result:** ❌ Incorrect
+
+### Q12: After leaving Aeolus the second time, where did Ulysses and his men reach on the seventh day?  
+**Correct Answer:** The rocky stronghold of Lamus  
+**Predicted Answer:** The Aeaean island  
+**Result:** ❌ Incorrect
+
+### Q13: What is the name of the city of the Laestrygonians?  
+**Correct Answer:** Telepylus  
+**Predicted Answer:** Ogygian  
+**Result:** ❌ Incorrect
+
+### Q14: What did Ulysses do with his own ship when they reached the Laestrygonian harbour?  
+**Correct Answer:** He moored it to a rock outside the harbor.  
+**Predicted Answer:** He moored it to a rock outside the harbor.  
+**Result:** ✅ Correct!
+
+### Q15: Who was the king of the Laestrygonians?  
+**Correct Answer:** Antiphates  
+**Predicted Answer:** Aeetes  
+**Result:** ❌ Incorrect
+
+### Q16: What did the Laestrygonians do to Ulysses's men and ships in the harbour?  
+**Correct Answer:** They threw vast rocks, crunching the ships and spearing the men.  
+**Predicted Answer:** They welcomed them and offered them food.  
+**Result:** ❌ Incorrect
+
+### Q17: Who is Circe the sister of?  
+**Correct Answer:** Aeetes  
+**Predicted Answer:** Perse  
+**Result:** ❌ Incorrect
+
+### Q18: What animal did Ulysses kill near Circe's house to feed his men?  
+**Correct Answer:** A stag  
+**Predicted Answer:** A wild boar  
+**Result:** ❌ Incorrect
+
+### Q19: What did Circe do to Ulysses's men after they drank her mess?  
+**Correct Answer:** She turned them into pigs.  
+**Predicted Answer:** She made them forget their homes.  
+**Result:** ❌ Incorrect
+
+### Q20: Who was the only man who suspected mischief and stayed outside Circe's house?  
+**Correct Answer:** Eurylochus  
+**Predicted Answer:** Polites  
+**Result:** ❌ Incorrect
+
+### Q21: Who appeared to Ulysses to help him against Circe?  
+**Correct Answer:** Mercury  
+**Predicted Answer:** Poseidon  
+**Result:** ❌ Incorrect
+
+### Q22: What is the name of the herb that protects Ulysses from Circe's magic?  
+**Correct Answer:** Moly  
+**Predicted Answer:** Moly  
+**Result:** ✅ Correct!
+
+### Q23: What is the appearance of the herb Moly?  
+**Correct Answer:** Black root and white flower  
+**Predicted Answer:** Black root and white flower  
+**Result:** ✅ Correct!
+
+### Q24: What does Ulysses make Circe swear before he goes to bed with her?  
+**Correct Answer:** That she will plot no further harm against him  
+**Predicted Answer:** That she will help him get home immediately  
+**Result:** ❌ Incorrect
+
+### Q25: How did Circe turn Ulysses's men back into humans?  
+**Correct Answer:** By touching them with her wand a second time.  
+**Predicted Answer:** By touching them with her wand a second time.  
+**Result:** ✅ Correct!
+
+### Q26: How long did Ulysses and his men stay with Circe?  
+**Correct Answer:** A whole twelvemonth  
+**Predicted Answer:** Six months  
+**Result:** ❌ Incorrect
+
+### Q27: What is the next journey Ulysses must take before sailing homewards, according to Circe?  
+**Correct Answer:** To go to the house of Hades and Proserpine  
+**Predicted Answer:** To consult the oracle at Delphi  
+**Result:** ❌ Incorrect
+
+### Q28: Whose ghost does Ulysses need to consult in the house of Hades?  
+**Correct Answer:** Teiresias  
+**Predicted Answer:** Achilles  
+**Result:** ❌ Incorrect
+
+### Q29: What offering does Circe instruct Ulysses to pour into the trench for the dead?  
+**Correct Answer:** Honey mixed with milk, wine, and water  
+**Predicted Answer:** Wine, oil, and blood  
+**Result:** ❌ Incorrect
+
+### Q30: What happened to Elpenor before Ulysses and his men left Circe's island?  
+**Correct Answer:** He fell off the roof and broke his neck.  
+**Predicted Answer:** He fell off the roof and broke his neck.  
+**Result:** ✅ Correct!
+
+---
+
+### 📊 **Model Accuracy**: **20.00%** (6 out of 30 correct)
+
+
 ### You must:
 
 1. 🛠️ **Choose a knowledge integration method**, such as:
