@@ -24,14 +24,16 @@ Your goal is to **improve the model’s accuracy** by intelligently leveraging t
 
 Specifically:
 
-- You must use a variant of the **FLAN-T5 model** from Hugging Face.  
-  We recommend starting with:  
+- You must use the **`google/flan-t5-small`** model from Hugging Face.  
+  This lightweight model is easy to use, quick to load, and ensures consistent comparisons across submissions.
+
   ```python
   from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-  model_name = "google/flan-t5-base"
+  model_name = "google/flan-t5-small"
   tokenizer = AutoTokenizer.from_pretrained(model_name)
   model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+
 
 - Explore and justify techniques that can help the model understand and reason better over literary texts.
 - Implement and evaluate improvements using the existing benchmark framework.
