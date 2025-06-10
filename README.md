@@ -200,7 +200,8 @@ The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, 
 
 ---
 
-### 📊 **Model Accuracy**: **20.00%** (6 out of 30 correct)
+### **Model Accuracy**: **20.00%** (6 out of 30 correct)  
+> This baseline score was obtained using the `google/flan-t5-small` model evaluated with the provided [`evaluation.py`](evaluation.py) script.
 
 
 ### You must:
