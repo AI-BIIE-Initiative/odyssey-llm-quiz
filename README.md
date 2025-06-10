@@ -1,22 +1,43 @@
 # ⛵ Odyssey LLM Knowledge Integration Benchmark 🏺
 
-## Technical Assessment Instructions
+## 🧠 Technical Assessment Instructions
 
-Welcome! This repository contains a technical assessment for engineering candidates focused on enhancing the performance of a language model on a literary comprehension benchmark derived from *The Odyssey* by Homer.
-
-You will find:
-- A chapter from *The Odyssey* (in plain text format).
-- A set of multiple-choice questions that evaluate understanding and reasoning based on that chapter.
-- A baseline language model (DistilGPT) that currently achieves **X%** accuracy on the benchmark.
-- Evaluation code in [`evaluation.py`](evaluation.py) to test DistilGPT2 on the benchmark.
-
-Your objective is to **improve this performance** by intelligently incorporating knowledge from the book corpus.
+Welcome! This repository contains a technical assessment for engineering candidates centered on enhancing a language model’s literary comprehension abilities using a benchmark derived from *The Odyssey* by Homer.
 
 ---
 
-## Task Overview
+### What You Will Find in This Repository
 
-Your challenge is to explore, justify, and implement methods that increase the model's ability to correctly answer questions by leveraging knowledge from the provided text.
+You will be working with the following assets:
+
+- A chapter from *The Odyssey* (provided in plain text format).
+- A set of multiple-choice questions assessing comprehension and reasoning from the chapter.
+- A benchmark notebook that evaluates model performance on these questions.
+- Baseline results from Google’s FLAN language model, which currently achieves **20% accuracy** on this benchmark (see full results below).
+- Evaluation code in [`evaluation.py`](evaluation.py) to test new models or approaches on the same set of questions.
+
+---
+
+### 🎯 Your Objective
+
+Your goal is to **improve the model’s accuracy** by intelligently leveraging the content of the provided chapter. Specifically:
+
+- Explore and justify techniques that can help the model understand and reason better over literary texts.
+- Implement and evaluate improvements using the existing benchmark framework.
+- You may choose to use retrieval augmentation, prompt engineering, fine-tuning, or other NLP techniques—your design choices should be clear and defensible.
+
+---
+
+### 📊 Baseline Performance
+
+The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, which achieves **20% accuracy** across 30 multiple-choice questions. You can find the full evaluation breakdown below to understand which types of questions it struggled with.
+
+---
+
+Please feel free to open [`quiz.ipynb`](quiz.ipynb) in [Google Colab](https://colab.research.google.com/github/AI-BIIE-Initiative/odyssey-llm-quiz/blob/main/quiz.ipynb) to get started quickly.
+
+Good luck—and enjoy the journey through Homer’s epic!
+
 
 ## 📘 Odyssey LLM Quiz – Evaluation Report
 
