@@ -225,57 +225,22 @@ Good luck—and enjoy the journey through Homer’s epic!
 
 ## 🧑‍💻 Submission Instructions
 
-Please follow these procedural steps carefully to ensure a complete and reviewable submission:
-
-###  Environment Setup
-
-1. **Clone this repository** to your local machine or directly into your GitHub Classroom account:  
-   ```bash
-   git clone https://github.com/YOUR_ORG_NAME/odyssey-llm-assessment.git
-   ```
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-BIIE-Initiative/odyssey-llm-quiz/blob/main/Untitled7.ipynb)
-
-2. **Open a new [Google Colab](https://colab.research.google.com/) notebook**.
-
-3. **Enable GPU acceleration**:  
-   In the Colab menu:  
-   `Runtime` → `Change runtime type` → Select `GPU` under “Hardware accelerator”.
-
-### Implementation
-
-4. **Do all your work in the Colab notebook**, including:
-   - Loading the chapter and questions
-   - Applying your integration method
-   - Evaluating the results
-   - Visualizing performance metrics
-
-5. **Save your notebook** and push it to this GitHub repository root folder:  
-   ```bash
-   git add your_solution_notebook.ipynb
-   git commit -m "Add completed technical assessment notebook"
-   git push origin main
-   ```
-
-6. **If you generate external files** (e.g., charts, config files, helper scripts), include them in your commit and reference them from the notebook.
+Please follow these steps to ensure a complete and reviewable submission.
 
 ---
 
-## 🤖 Use of LLMs & AI Tools
+### 💻 Environment Setup
 
-You are encouraged to use Large Language Models such as ChatGPT, Claude, Gemini, or others to assist in:
-- Brainstorming
-- Code drafting and debugging
-- Literature review
-- Visualizations
+You may use **any IDE or platform you prefer**, including VS Code, Jupyter, PyCharm, or others.
 
-However, you **must explicitly document**:
-- Which model(s) or tool(s) you used
-- What you used them for
-- Why you chose them
+> ⚡️ However, we **recommend using [Google Colab](https://colab.research.google.com/)** or [Kaggle Notebooks](https://www.kaggle.com/code) due to their **free access to GPUs**, which can significantly ease testing and prototyping.
 
-This helps us understand how effectively you incorporate modern AI tools into your workflow.
+To get started quickly:
 
----
+```bash
+git clone https://github.com/AI-BIIE-Initiative/odyssey-llm-quiz.git
+cd odyssey-llm-quiz
+
 
 ## 🏛️ Book License
 
