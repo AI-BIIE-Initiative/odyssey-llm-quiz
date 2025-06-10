@@ -243,16 +243,30 @@ You may use **any IDE or platform you prefer**, including VS Code, Jupyter, PyCh
 
 To get started quickly:
 
-```bash
-git clone https://github.com/AI-BIIE-Initiative/odyssey-llm-quiz.git
-cd odyssey-llm-quiz
 
 
-## 🏛️ Book License
 
-> _[Placeholder: The excerpt from *The Odyssey* is subject to applicable copyright or public domain laws depending on the translation used. Please ensure that the version provided complies with open-use or academic licensing standards.]_
+## 📜 License & Copyright
+
+### 📘 Text Source
+
+The chapter from *The Odyssey* included in this repository is derived from a public domain edition provided by [Project Gutenberg](https://www.gutenberg.org/), in accordance with the terms of the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
+
+> **Project Gutenberg License Summary:**  
+> You may copy, distribute, or reuse this text freely, so long as it is not used for commercial gain and proper attribution to Project Gutenberg is maintained. The content is in the public domain in the United States.
 
 ---
+
+###  Code & Benchmark Materials
+
+All code, questions, benchmark tools, and instructional materials in this repository are distributed under the **MIT License** unless otherwise stated.
+
+
+### © Copyright
+
+Portions of this repository (specifically, the text of *The Odyssey*) are derived from Project Gutenberg content. All original work contained in this repository is © 2025 by AI-BIIE-Initiative and contributors, and made available under permissive open-source terms.
+
+
 
 ## Final Notes
 
