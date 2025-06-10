@@ -10,10 +10,8 @@ Welcome! This repository contains a technical assessment for engineering candida
 You will be working with the following assets:
 
 - A chapter from *The Odyssey* (provided in plain text format). [`The_Odyssey_chapter_10.txt`](The_Odyssey_chapter_10.txt)
-- A set of multiple-choice questions assessing comprehension and reasoning from the chapter.
-- A benchmark notebook that evaluates model performance on these questions. [`OdysseyMCQ_balanced.json`](OdysseyMCQ_balanced.json)
-- Baseline results from Google’s FLAN language model, which currently achieves **20% accuracy** on this benchmark (see full results below).
-- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model, and can also be used to test new models or approaches on the same set of questions.
+- A set of multiple-choice questions assessing comprehension and reasoning from the chapter.[`OdysseyMCQ_balanced.json`](OdysseyMCQ_balanced.json)
+- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model [`https://huggingface.co/google/flan-t5-small`](google/flan-t5-small), and currently achieves **20% accuracy** on the same set of questions.
 
 
 ---
