@@ -53,7 +53,7 @@ Please follow these procedural steps carefully to ensure a complete and reviewab
    ```bash
    git clone https://github.com/YOUR_ORG_NAME/odyssey-llm-assessment.git
    ```
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-BIIE-Initiative/odyssey-llm-quiz/blob/main/quiz.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-BIIE-Initiative/odyssey-llm-quiz/blob/main/Untitled7.ipynb)
 
 2. **Open a new [Google Colab](https://colab.research.google.com/) notebook**.
 
