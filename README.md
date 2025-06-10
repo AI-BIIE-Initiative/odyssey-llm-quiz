@@ -1,6 +1,5 @@
 # ⛵ Odyssey LLM Knowledge Integration Benchmark 🏺
 
-## 🧠 Technical Assessment Instructions
 
 Welcome! This repository contains a technical assessment for engineering candidates centered on enhancing a language model’s literary comprehension abilities using a benchmark derived from *The Odyssey* by Homer.
 
@@ -14,13 +13,25 @@ You will be working with the following assets:
 - A set of multiple-choice questions assessing comprehension and reasoning from the chapter.
 - A benchmark notebook that evaluates model performance on these questions.
 - Baseline results from Google’s FLAN language model, which currently achieves **20% accuracy** on this benchmark (see full results below).
-- Evaluation code in [`evaluation.py`](evaluation.py) to test new models or approaches on the same set of questions.
+- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model, and can also be used to test new models or approaches on the same set of questions.
+
 
 ---
 
 ### 🎯 Your Objective
 
-Your goal is to **improve the model’s accuracy** by intelligently leveraging the content of the provided chapter. Specifically:
+Your goal is to **improve the model’s accuracy** by intelligently leveraging the content of the provided chapter using the **Google FLAN** model as the baseline.
+
+Specifically:
+
+- You must use a variant of the **FLAN-T5 model** from Hugging Face.  
+  We recommend starting with:  
+  ```python
+  from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
+  model_name = "google/flan-t5-base"
+  tokenizer = AutoTokenizer.from_pretrained(model_name)
+  model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 - Explore and justify techniques that can help the model understand and reason better over literary texts.
 - Implement and evaluate improvements using the existing benchmark framework.
