@@ -41,12 +41,10 @@ Specifically:
 
 ---
 
-### 📊 Baseline Performance
-
-The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, which achieves **20% accuracy** across 30 multiple-choice questions. You can find the full evaluation breakdown below to understand which types of questions it struggled with.
-
 
 ## 📘 Odyssey LLM Quiz – Evaluation Report
+
+The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, which achieves **20% accuracy** across 30 multiple-choice questions. You can find the full evaluation breakdown below to understand which types of questions it struggled with.
 
 ---
 
