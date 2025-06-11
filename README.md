@@ -1,7 +1,11 @@
 # ⛵ Odyssey LLM Knowledge Integration Benchmark 🏺
 
 
-Welcome! This repository contains a technical assessment for engineering candidates centered on enhancing a language model’s literary comprehension abilities using a benchmark derived from *The Odyssey* by Homer.
+Welcome!
+
+This repository is part of the BIIE AI Initiative Technical Assessment. The challenge is designed to evaluate and improve the literary comprehension skills of an LLM—specifically google/flan-t5-small—on a benchmark built from a chapter of The Odyssey by Homer.
+
+Your mission isn't just to boost performance—though that's important—but to clearly document your reasoning, approach, and results along the way. Transparency, clarity, and communication are just as valued as technical skills.
 
 ---
 
