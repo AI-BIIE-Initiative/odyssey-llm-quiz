@@ -251,44 +251,30 @@ The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, 
 > This baseline score was obtained using the `google/flan-t5-small` model evaluated with the provided [`evaluation.py`](evaluation.py) script.
 
 
-### You must:
-
-1. 🛠️ **Choose a knowledge integration method**, such as:
-   - Prompt engineering
-   - Retrieval-Augmented Generation (RAG)
-   - Embedding-based context retrieval
-   - Light-weight fine-tuning or instruction tuning
-   - Any hybrid or creative approach
-
-2. 🧠 **Clearly explain your rationale** for the method(s) selected. Why is your approach appropriate for this task? What trade-offs did you consider?
-
-3. 💻 **Implement your full pipeline in code**, including:
-   - Preprocessing the corpus (if needed)
-   - Modifying the inference setup
-   - Running the benchmark
-   - Logging outputs and scores
-
-4. 📊 **Produce plots and visualizations** that explain your findings and support your decisions, such as:
-   - Accuracy improvements
-   - Question-wise model behavior
-   - Error breakdowns
-   - Confidence calibration (if applicable)
-
----
-
 ## 🧑‍💻 Submission Instructions
 
 Please follow these steps to ensure a complete and reviewable submission.
 
 ---
 
-### 💻 Environment Setup
+## 💻 Runtime Environment
 
-You may use **any IDE or platform you prefer**, including VS Code, Jupyter, PyCharm, or others.
+We **strongly recommend** using a **GPU-enabled environment** (e.g., Google Colab, Kaggle Kernels, AWS, Paperspace, etc.) to run and evaluate your experiments with [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) efficiently.
 
-> ⚡️ However, we **recommend using [Google Colab](https://colab.research.google.com/)** or [Kaggle Notebooks](https://www.kaggle.com/code) due to their **free access to GPUs**, which can significantly ease testing and prototyping.
+If you do **not** have access to a GPU:
 
-To get started quickly:
+- You **may** run the `google/flan-t5-small` model locally on CPU using a minimal pipeline setup.
+- Make sure your local environment meets **at least** the following hardware requirements to support running `google/flan-t5-small` reliably:
+
+### Minimum Local Hardware Requirements for `google/flan-t5-small`
+
+- **CPU:** 4-core processor (e.g., Intel i5 or equivalent)  
+- **RAM:** At least **8 GB**  
+- **Disk Space:** At least **3 GB** free (to accommodate model weights, input data, and logs)  
+- **Python:** Version **3.8 or above**  
+- **Operating System:** Linux, macOS, or Windows  
+
+> ⚠️ Note: Running `google/flan-t5-small` on CPU will be **significantly slower**, particularly during inference or when working with longer input sequences. GPU access is strongly preferred for iterative experimentation.
 
 
 
