@@ -281,7 +281,7 @@ If you do **not** have access to a GPU:
 
 ## 📜 License & Copyright
 
-### 📘 Text Source
+### Text Source
 
 The chapter from *The Odyssey* included in this repository is derived from a public domain edition provided by [Project Gutenberg](https://www.gutenberg.org/), in accordance with the terms of the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
 
