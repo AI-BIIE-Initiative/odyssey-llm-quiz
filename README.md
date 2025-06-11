@@ -3,10 +3,9 @@
 
 Welcome!
 
-This repository is part of the BIIE AI Initiative Technical Assessment. The challenge is designed to evaluate and improve the literary comprehension skills of an LLM—specifically google/flan-t5-small—on a benchmark built from a chapter of The Odyssey by Homer.
+This repository is part of the BIIE AI Initiative Technical Assessment. The challenge is designed to evaluate and improve the literary comprehension skills of an LLM specifically [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) on a benchmark built from a chapter of Homer's Odyssey.
 
-Your mission isn't just to boost performance—though that's important—but to clearly document your reasoning, approach, and results along the way. Transparency, clarity, and communication are just as valued as technical skills.
-
+The goal of this assessment is to provide both the code and a report that demonstrate efforts to improve the performance of the google/flan-t5-small model on the provided benchmark. Equally important is to clearly explain the decision-making process—including the rationale behind each technical choice—and to present the results in a structured and transparent manner
 ---
 
 ### What You Will Find in This Repository
