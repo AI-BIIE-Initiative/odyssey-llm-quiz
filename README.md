@@ -3,7 +3,7 @@
 
 Welcome!
 
-This repository is part of the BIIE AI Initiative Technical Assessment. The challenge is designed to evaluate and improve the literary comprehension skills of an LLM specifically [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) on a QA benchmark built from a chapter of Homer's Odyssey.
+This repository is part of the BIIE AI Initiative Technical Assessment. The challenge is designed to evaluate and improve the literary comprehension skills of an LLM, specifically [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small), on a QA benchmark built from a chapter of Homer's Odyssey.
 
 The goal of this assessment is to provide both the code and a report that demonstrate efforts to improve the performance of the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model on the provided benchmark. Equally important is to clearly explain the decision-making process, including the rationale behind each technical choice and to present the results in a structured manner.
 
@@ -22,11 +22,11 @@ You will be working with the following assets:
 
 ### 🎯 Your Objective
 
-Your goal is to **improve the model’s accuracy** by leveraging the content of the provided chapter using the **Google FLAN** model as the baseline.
+Your goal is to **improve the model’s accuracy** by leveraging the content of the provided chapter using the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model as the baseline.
 
 Specifically:
 
-- You must use the **`google/flan-t5-small`** model from Hugging Face.  
+- You must use the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model from Hugging Face.  
   This lightweight model is easy to use, quick to load, and ensures consistent comparisons across submissions.
 
   ```python
@@ -45,7 +45,7 @@ Specifically:
 
 ## 📝 Final Notes
 
-This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication—core qualities of effective engineers.
+This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication skills.
 
 ---
 
