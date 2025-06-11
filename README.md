@@ -45,7 +45,7 @@ Specifically:
 
 ## 📝 Final Notes
 
-This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication skills.
+This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication skills. Even if your modifications do not lead to a measurable improvement in performance, it is still essential to explain the rationale behind your decisions. Clearly documenting your reasoning, methodology, and the trade-offs considered is a key part of the assessment.
 
 ---
 
