@@ -276,15 +276,11 @@ If you do **not** have access to a GPU:
 
 
 
-
 ## 📜 License & Copyright
 
-### Text source
+### Project Gutenberg license
 
 The chapter from *The Odyssey* included in this repository is derived from a public domain edition provided by [Project Gutenberg](https://www.gutenberg.org/), in accordance with the terms of the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
-
-> **Project Gutenberg License Summary:**  
-> You may copy, distribute, or reuse this text freely, so long as it is not used for commercial gain and proper attribution to Project Gutenberg is maintained. The content is in the public domain in the United States.
 
 ---
 
@@ -303,5 +299,3 @@ Portions of this repository (specifically, the text of *The Odyssey*) are derive
 ### Questions?
 
 If anything is unclear, feel free to contact.
-
-Good luck, and enjoy reimagining Odysseus’ journey through the lens of machine intelligence!
