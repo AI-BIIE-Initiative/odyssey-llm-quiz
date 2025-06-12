@@ -1,4 +1,4 @@
-# ⛵ Odyssey LLM Knowledge Integration Benchmark 🏺
+# ⛵ Odyssey LLM 🏺
 
 
 Welcome!
