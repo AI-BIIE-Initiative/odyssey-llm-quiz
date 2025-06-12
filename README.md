@@ -87,7 +87,7 @@ This assessment is **not just a coding exercise**. It is designed to evaluate yo
 Good luck and enjoy the challenge!
 
 
-## 📘 Odyssey LLM Quiz – Evaluation Report
+## 📘 Odyssey LLM Quiz – Evaluation report
 
 The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, which achieves **20% accuracy** across 30 multiple-choice questions. You can find the full evaluation breakdown below to understand which types of questions it struggled with.
 
@@ -245,7 +245,7 @@ The current benchmark uses **Google FLAN**, a powerful instruction-tuned model, 
 
 ---
 
-### **Model Accuracy**: **20.00%** (6 out of 30 correct)  
+### **Model accuracy**: **20.00%** (6 out of 30 correct)  
 > This baseline score was obtained using the `google/flan-t5-small` model evaluated with the provided [`evaluation.py`](evaluation.py) script.
 
 
@@ -255,7 +255,7 @@ Please follow these steps to ensure a complete and reviewable submission.
 
 ---
 
-## 💻 Runtime Environment
+## 💻 Runtime environment
 
 We **strongly recommend** using a **GPU-enabled environment** (e.g., Google Colab, Kaggle Kernels etc.) to run and evaluate your experiments with [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) efficiently.
 
@@ -264,7 +264,7 @@ If you do **not** have access to a GPU:
 - You **may** run the `google/flan-t5-small` model locally on CPU using a minimal pipeline setup.
 - Make sure your local environment meets **at least** the following hardware requirements to support running `google/flan-t5-small` reliably:
 
-### Minimum Local Hardware Requirements for `google/flan-t5-small`
+### Minimum hardware requirements for `google/flan-t5-small`
 
 - **CPU:** 4-core processor (e.g., Intel i5 or equivalent)  
 - **RAM:** At least **8 GB**  
@@ -279,7 +279,7 @@ If you do **not** have access to a GPU:
 
 ## 📜 License & Copyright
 
-### Text Source
+### Text source
 
 The chapter from *The Odyssey* included in this repository is derived from a public domain edition provided by [Project Gutenberg](https://www.gutenberg.org/), in accordance with the terms of the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
 
@@ -288,7 +288,7 @@ The chapter from *The Odyssey* included in this repository is derived from a pub
 
 ---
 
-###  Code & Benchmark Materials
+###  Code & benchmark materials
 
 All code, questions, benchmark tools, and instructional materials in this repository are distributed under the **MIT License** unless otherwise stated.
 
@@ -302,6 +302,6 @@ Portions of this repository (specifically, the text of *The Odyssey*) are derive
 
 ### Questions?
 
-If anything is unclear, feel free to document assumptions in your notebook or leave inline notes with your reasoning.
+If anything is unclear, feel free to contact.
 
 Good luck, and enjoy reimagining Odysseus’ journey through the lens of machine intelligence!
