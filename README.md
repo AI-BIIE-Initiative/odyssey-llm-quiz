@@ -1,4 +1,4 @@
-# ⛵ Odyssey LLM 🏺
+# ⛵ Odyssey LLM Quiz🏺
 
 
 Welcome!
@@ -9,24 +9,24 @@ The goal of this assessment is to provide both the code and a report that demons
 
 ---
 
-### What You Will Find in This Repository
+### What You will find in the Odyssey LLM Quiz repository
 
-You will be working with the following assets:
+You will be working with the following files:
 
 - A chapter from *The Odyssey* (provided in plain text format). [`The_Odyssey_chapter_10.txt`](The_Odyssey_chapter_10.txt)
 - A set of multiple-choice questions assessing comprehension and reasoning from the chapter.[`OdysseyMCQ_balanced.json`](OdysseyMCQ_balanced.json)
-- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small), and currently achieves **20% accuracy** on the same set of questions.
+- Evaluation code in [`evaluation.py`](evaluation.py), which was used to assess the baseline performance of the Google FLAN model [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) (currently **20% accuracy**).
 
 
 ---
 
-### 🎯 Your Objective
+### 🎯 Your objective
 
 Your goal is to **improve the model’s accuracy** by leveraging the content of the provided chapter using the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model as the baseline.
 
 Specifically:
 
-- You must use the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model from Hugging Face.  
+- You can use the [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) model from Hugging Face.  
   This lightweight model is easy to use, quick to load, and ensures consistent comparisons across submissions.
 
   ```python
@@ -40,16 +40,17 @@ Specifically:
 - Explore and justify techniques that can help the model understand and reason better over literary texts.
 - Implement and evaluate improvements using the existing benchmark framework.
 - You may choose to use retrieval augmentation, prompt engineering, fine-tuning, or other NLP techniques—your design choices should be clear and defensible.
+- In case you want to use a different LLM, explain the rationale behind this decision.
 
 ---
 
-## 📝 Final Notes
+## 📝 Final notes
 
-This assessment is **not just a coding exercise**. It is designed to evaluate your technical reasoning, creativity, and communication skills. Even if your modifications do not lead to a measurable improvement in performance, it is still essential to explain the rationale behind your decisions. Clearly documenting your reasoning, methodology, and the trade-offs considered is a key part of the assessment.
+This assessment is **not just a coding exercise**. It is designed to evaluate your technical knowledge, creativity, and communication skills. Even if your modifications do not lead to a measurable improvement in performance, it is still essential to explain the rationale behind your decisions. Clearly documenting your code, results, and the trade-offs considered is a key part of the assessment.
 
 ---
 
-### What You Should Do
+### What you should do
 
 1. **You are encouraged to upload and include anything you find necessary** to support your solution—whether that’s custom code, evaluation scripts, visualizations, reference materials, or documentation.  
    > 🧾 A Jupyter or Colab **notebook is preferred** for its ability to combine code, results, and reasoning in a single, readable format.
@@ -57,16 +58,15 @@ This assessment is **not just a coding exercise**. It is designed to evaluate yo
 2. **You are free to approach the benchmark however you see fit.**  
    Feel empowered to:
    - Fix or redesign the evaluation pipeline
-   - Refactor question formatting or handling
    - Engineer prompts or augment the dataset
-   - Try any method you believe could improve the LLM’s performance  
+   - Try any knowldegw integration method you believe could improve the LLM’s performance
+   - Use different LLM
    > This is your chance to show **how you think**, not just how you code.
 
 3. **This is an open-ended assessment.**  
    We're looking at your ability to:
    - Explore and justify engineering decisions
    - Communicate design trade-offs
-   - Reflect on outcomes with appropriate metrics and plots  
    > Think of it as solving a small, real-world problem where clarity and intent matter more than perfection.
 
 4. **Using LLMs during development is encouraged.**  
@@ -84,9 +84,7 @@ This assessment is **not just a coding exercise**. It is designed to evaluate yo
 
 ---
 
-We appreciate originality and inventiveness—but also **value simplicity**, **clarity**, and **reproducibility** in your final submission.  
-
-Good luck—and enjoy the challenge!
+Good luck and enjoy the challenge!
 
 
 ## 📘 Odyssey LLM Quiz – Evaluation Report
@@ -259,7 +257,7 @@ Please follow these steps to ensure a complete and reviewable submission.
 
 ## 💻 Runtime Environment
 
-We **strongly recommend** using a **GPU-enabled environment** (e.g., Google Colab, Kaggle Kernels, AWS, Paperspace, etc.) to run and evaluate your experiments with [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) efficiently.
+We **strongly recommend** using a **GPU-enabled environment** (e.g., Google Colab, Kaggle Kernels etc.) to run and evaluate your experiments with [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) efficiently.
 
 If you do **not** have access to a GPU:
 
@@ -274,7 +272,7 @@ If you do **not** have access to a GPU:
 - **Python:** Version **3.8 or above**  
 - **Operating System:** Linux, macOS, or Windows  
 
-> ⚠️ Note: Running `google/flan-t5-small` on CPU will be **significantly slower**, particularly during inference or when working with longer input sequences. GPU access is strongly preferred for iterative experimentation.
+> ⚠️ Note: Running `google/flan-t5-small` on CPU will be **significantly slower**, particularly during inference or when working with longer input sequences. GPU access is strongly preferred.
 
 
 
